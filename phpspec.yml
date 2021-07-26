@@ -1,0 +1,4 @@
+suites:
+  library_suite:
+    namespace: wrex\LaravelTableView
+    psr4_prefix: wrex\LaravelTableView
